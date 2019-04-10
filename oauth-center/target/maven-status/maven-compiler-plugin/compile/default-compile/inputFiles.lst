@@ -1,0 +1,13 @@
+G:\eclipse\springCloud\cloud-service\oauth-center\src\main\java\com\cloud\oauth\config\MyRedisTokenStore.java
+G:\eclipse\springCloud\cloud-service\oauth-center\src\main\java\com\cloud\oauth\config\ResourceServerConfig.java
+G:\eclipse\springCloud\cloud-service\oauth-center\src\main\java\com\cloud\oauth\constants\PermitAllUrl.java
+G:\eclipse\springCloud\cloud-service\oauth-center\src\main\java\com\cloud\oauth\config\PasswordEncoderConfig.java
+G:\eclipse\springCloud\cloud-service\oauth-center\src\main\java\com\cloud\oauth\feign\UserClient.java
+G:\eclipse\springCloud\cloud-service\oauth-center\src\main\java\com\cloud\oauth\service\impl\RedisClientDetailsService.java
+G:\eclipse\springCloud\cloud-service\oauth-center\src\main\java\com\cloud\oauth\config\AuthorizationServerConfig.java
+G:\eclipse\springCloud\cloud-service\oauth-center\src\main\java\com\cloud\oauth\controller\OAuth2Controller.java
+G:\eclipse\springCloud\cloud-service\oauth-center\src\main\java\com\cloud\oauth\service\impl\UserDetailServiceImpl.java
+G:\eclipse\springCloud\cloud-service\oauth-center\src\main\java\com\cloud\oauth\config\SecurityConfig.java
+G:\eclipse\springCloud\cloud-service\oauth-center\src\main\java\com\cloud\oauth\service\impl\RedisAuthorizationCodeServices.java
+G:\eclipse\springCloud\cloud-service\oauth-center\src\main\java\com\cloud\oauth\service\impl\RandomAuthenticationKeyGenerator.java
+G:\eclipse\springCloud\cloud-service\oauth-center\src\main\java\com\cloud\oauth\OauthCenterApplication.java

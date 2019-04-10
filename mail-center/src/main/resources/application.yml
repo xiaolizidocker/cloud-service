@@ -1,0 +1,18 @@
+app: 
+  id: mail-center
+apollo:
+  meta: http://192.168.0.11:9100
+server:
+    port: 8055
+spring:
+    mail:
+        default-encoding: UTF-8
+        host: smtp.163.com
+        password: zy123456
+        properties:
+            mail:
+                smtp:
+                    auth: true
+        protocol: smtp
+        test-connection: false
+        username: 13294157562@163.com

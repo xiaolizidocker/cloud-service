@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: oauth-center
+server:
+  port: 8062
+app: 
+  id: oauth-center
+apollo:
+  meta: http://192.168.0.11:9100

@@ -1,0 +1,14 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: manage-backend  
+app: 
+  id: manage-backend
+apollo:
+  meta: http://192.168.0.11:9100
+security:
+  oauth2:
+    resource:
+      user-info-uri: http://localhost:8080/api-o/user-me
+      prefer-token-info: false

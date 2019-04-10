@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: user-center
+server:
+  port: 8061
+app: 
+  id: user-center
+apollo:
+  meta: http://192.168.0.11:9100
+security:
+    oauth2:
+        resource:
+            prefer-token-info: false
+            user-info-uri: http://localhost:8080/api-o/user-me
+
+
+      

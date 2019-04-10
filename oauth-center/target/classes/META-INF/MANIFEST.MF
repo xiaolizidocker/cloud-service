@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: oauth-center
+Implementation-Version: 2.0
+Built-By: zhouyu
+Implementation-Vendor-Id: com.cloud
+Build-Jdk: 1.8.0_171
+Implementation-URL: http://maven.apache.org/oauth-center
+Created-By: Maven Integration for Eclipse
+
