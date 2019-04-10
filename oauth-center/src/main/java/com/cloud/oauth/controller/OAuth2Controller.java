@@ -22,7 +22,6 @@ public class OAuth2Controller {
 	/**
      * 注销登陆/退出
      * 移除access_token和refresh_token<br>
-     * 2018.06.28 改为用ConsumerTokenServices，该接口的实现类DefaultTokenServices已有相关实现，我们不再重复造轮子
      *
      * @param access_token
      */
